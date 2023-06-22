@@ -2,7 +2,7 @@
 
 ![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius9821&theme=midnight-purple&show_icons=true)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=midnight-purple&layout=compact)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius9821&theme=midnight-purple&layout=compact&hide=javascript)
 
 Would you like to find me?
 
