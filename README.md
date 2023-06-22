@@ -2,6 +2,7 @@
 
 ![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius9821&theme=jolly&show_icons=true)
 
+[![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius9821)](https://github.com/Vinicius9821/github-readme-stats)
 
 **Vinicius9821/Vinicius9821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
