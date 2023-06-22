@@ -4,6 +4,11 @@
 
 **Vinicius9821/Vinicius9821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Would you like to find me?
+
+- LinkedIn: [linkedin.com/in/vinicius-atilio-7a03a4123](https://www.linkedin.com/in/vinicius-atilio-7a03a4123)
+- Instagram: [instagram.com/_viniatilio](https://www.instagram.com/_viniatilio)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
