@@ -1,6 +1,6 @@
 ### Hi there I'm Vinicius Atilio 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius9821&theme=jolly&show_icons=true)
 
 
 **Vinicius9821/Vinicius9821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
