@@ -2,6 +2,8 @@
 
 ![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius9821&theme=midnight-purple&show_icons=true)
 
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius9821&layout=compact)
+
 Would you like to find me?
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-atilio-7a03a4123)
